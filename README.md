@@ -16,7 +16,7 @@ Step 2: Open https://www.elephantsql.com/ make a new account there then click cr
         
  ![Elephant-SQL](https://github.com/GokuMUI7/catuserbot-heroku/raw/main/elephantsql.gif)      
        
-Step 3: Fork this repo and open repository settings then select secrets in the left menu and click new repository secret:
+Step 3: Fork this repo and open repository settings then select secrets under secrets click actions in the left menu and click new repository secret:
         Add the below Required Variables one by one by clicking New Repository Secret every time.
 
    - HEROKU_EMAIL: Heroku Account Email Id in which the above app will be deployed
