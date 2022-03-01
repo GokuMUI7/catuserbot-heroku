@@ -1,7 +1,7 @@
 ## Deploy With Github Workflow
 
 Step 1: Copy [This](https://raw.githubusercontent.com/TgCatUB/catuserbot/master/exampleconfig.py) and open the webpage https://gist.github.com and the paste it there 
- and create a new secret gist. Rename the file to config.py now click on the raw button and copy the url then remove the commit id from the gist link found after /raw/
+ and add your vars, create a new secret gist. Rename the file to config.py now click on the raw button and copy the url then remove the commit id from the gist link found after /raw/
  Eg - your gist link
 
  before -- https://gist.githubusercontent.com/GokuMUI7/e070340b8d111/raw/fc8ccf1a2057871f54593ef7853f64d51642f1ef/config.py           
