@@ -25,6 +25,8 @@ Step 3: Fork this repo and open repository settings then select secrets under se
    - CONFIG_FILE_URL: Made above in step 1
 
 ![1](https://telegra.ph/file/a773aab2b34bc999081f5.jpg)
+
+
 ![2](https://telegra.ph/file/1fd806354ffcf2a3a0e33.jpg)
 
 Step 4: Click on Actions click manually deploy to heroku and click run workflow select main branch and hit run now let the process complete and then move to https://dashboard.heroku.com/apps/
