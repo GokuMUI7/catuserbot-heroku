@@ -18,4 +18,4 @@ jobs:
           region: "us"
         env:
           HD_CONFIG_FILE_URL: ${{secrets.CONFIG_FILE_URL}}
-          HD_UPSTREAM_URL: "https://github.com/sandy1709/catuserbot.git"
+          HD_UPSTREAM_URL: "https://github.com/TgCatUB/catuserbot"
